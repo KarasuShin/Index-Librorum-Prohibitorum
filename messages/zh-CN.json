@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "language": "语言",
+    "theme": "主题"
+  },
+  "themes": {
+    "light": "浅色",
+    "dark": "深色",
+    "system": "跟随系统"
+  },
+  "bookmarkForm": {
+    "label": {
+      "url": "链接",
+      "title": "标题",
+      "desc": "描述",
+      "cover": "封面"
+    },
+    "update": {
+      "title": "更新书签",
+      "submit": "保存",
+      "syncSite": "同步站点信息" ,
+      "success": "书签已更新"
+    },
+    "create": {
+      "title": "添加书签",
+      "submit": "保存",
+      "success": "书签已添加"
+    },
+    "delete": {
+      "success": "书签已删除"
+    },
+    "validate": {
+      "url": "请输入正确的链接"
+    }
+  },
+  "commandMenu": {
+    "search": "搜索...",
+    "placeholder": "输入命令或搜索...",
+    "noResult": "没有搜索结果。",
+    "action": "指令",
+    "actions": {
+      "addBookmark": "添加书签"
+    }
+  },
+  "bookmarkContextMenu": {
+    "edit": "编辑",
+    "del": "删除"
+  }
+}

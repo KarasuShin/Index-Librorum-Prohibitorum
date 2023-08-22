@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "themes": {
+    "light": "light",
+    "dark": "dark",
+    "system": "system"
+  },
+  "bookmarkForm": {
+    "label": {
+      "url": "URL",
+      "title": "Title",
+      "desc": "Description",
+      "cover": "Cover"
+    },
+    "update": {
+      "title": "Update Bookmark",
+      "submit": "Save",
+      "syncSite": "sync site info",
+      "success": "bookmark updated"
+    },
+    "create": {
+      "title": "Add Bookmark",
+      "submit": "Save",
+      "success": "bookmark created"
+    },
+    "delete": {
+      "success": "bookmark deleted"
+    },
+    "validate": {
+      "url": "Please enter the correct url"
+    }
+  },
+  "commandMenu": {
+    "search": "Search...",
+    "placeholder": "Type a command or search...",
+    "noResult": "No results found.",
+    "action": "Action",
+    "actions": {
+      "addBookmark": "Add Bookmark"
+    }
+  },
+  "bookmarkContextMenu": {
+    "edit": "Edit",
+    "del": "Del"
+  }
+}
